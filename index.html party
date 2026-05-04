@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+  <head>
+    <title>Brithday invitation</title> 
+  </head>
+<body> 
+<h1>Gradution party Invitation</h1>
+  <P>
+    join me in celebration one of the happiest moments of my life.
+  </P>
+<p> 
+  name:fatima <br>
+  data: 17/5/2026 <br>
+  loction: MY home <br>
+  time: 8:00 PM
+</p>
+</body>
+  <p> id="msg" will yoy attend the party?</p>
+  <button onclick="confirmAttendance()">
+    i am comming 
+  </button>
+<script>
+  function confrimAttendance() {
+    document.getElementById("msg") .iinerText=
+      thank you for confirming youur attendance.
+  
+
+</script>
+    
